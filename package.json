@@ -1,5 +1,5 @@
 {
-  "name": "financas-app",
+  "name": "streaming-app",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@react-native-community/datetimepicker": "8.3.0",
+    "@expo/vector-icons": "^14.1.0",
+    "@react-native-community/datetimepicker": "^8.3.0",
     "@react-navigation/bottom-tabs": "^7.3.14",
     "@react-navigation/drawer": "^7.3.9",
     "@react-navigation/material-top-tabs": "^7.2.10",
@@ -18,15 +19,19 @@
     "@react-navigation/stack": "^7.2.10",
     "expo": "^53.0.11",
     "expo-status-bar": "~2.2.3",
-    "firebase": "^11.7.3",
+    "firebase": "^11.9.1",
     "react": "19.0.0",
     "react-native": "0.79.3",
     "react-native-gesture-handler": "~2.24.0",
     "react-native-pager-view": "6.7.1",
-    "react-native-reanimated": "~3.17.4"
+    "react-native-reanimated": "~3.17.4",
+    "react-native-safe-area-context": "^5.4.0",
+    "react-native-screens": "^4.11.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
   "private": true
 }
+
+

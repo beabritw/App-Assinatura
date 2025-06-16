@@ -1,0 +1,4 @@
+node_modules
+src/firebaseConnection.js
+.vscode/
+package-lock.json
