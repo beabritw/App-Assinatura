@@ -14,7 +14,7 @@ Para testar esse projeto deve-se:
 
 2.  **Acesse a pasta do projeto:**
     ```
-    cd seu-repositorio
+    cd App-Assinatura
     ```
 
 3.  **Instale as dependências:**
