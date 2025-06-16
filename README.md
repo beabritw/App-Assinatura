@@ -8,6 +8,7 @@ Integrantes: (Grupo da primeira fileira)
 Para testar esse projeto deve-se:
 
   1.  **Clone o repositório:**
+     
     ```
     git clone https://github.com/beabritw/App-Assinatura.git
     ```
