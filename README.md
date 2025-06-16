@@ -9,20 +9,20 @@ Para testar esse projeto deve-se:
 
   1.  **Clone o repositório:**
     ```
-    git clone https://github.com/beabritw/App-Assinatura
+    git clone https://github.com/beabritw/App-Assinatura.git
     ```
 
-2.  **Acesse a pasta do projeto:**
+3.  **Acesse a pasta do projeto:**
     ```
     cd seu-repositorio
     ```
 
-3.  **Instale as dependências:**
+4.  **Instale as dependências:**
     ```
     npm install
     ```
 
-4.  **Inicie o servidor de desenvolvimento:**
-    ```bash
+5.  **Inicie o servidor de desenvolvimento:**
+    ```
     npx expo start
     ```
